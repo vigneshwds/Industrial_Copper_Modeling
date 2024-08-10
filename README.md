@@ -1,7 +1,7 @@
 # Industrial_Copper_Modeling
 
 ## Project Overview
-The Copper Industry Modeling Project is designed to enhance decision-making within the copper industry by addressing challenges associated with sales and pricing data. This project utilizes machine learning techniques to improve prediction accuracy, streamline lead classification, and offer insights through an interactive Streamlit dashboard.
+The Copper Industry Modeling Project is designed to enhance decision-making within the copper industry by addressing challenges associated with predicting selling price and classifying leads. This project utilizes machine learning techniques to improve prediction accuracy, streamline lead classification, and offer insights through an interactive Streamlit dashboard.
 
 ## Features
 - Data Exploration and Cleaning: Identify and rectify skewness and outliers in the dataset.
